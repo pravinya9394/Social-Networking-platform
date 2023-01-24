@@ -1,27 +1,49 @@
 # Social-networking-platform
 Goal:
 A social networking platform for users to discover events and connect with people who share similar interests
+
 Overview:
+
 Define a list of interests and events by direct DB write [MUST]
+
 A user can add interests to his profile [MUST]
+
 A user can see a list of events happening in the city for the added interests [MUST]
+
 A user can see events listed from Eventbrite public API [MUST]
+
 A user can see a list of events they have registered for [MUST]
+
 A user can register for the event [GOOD]
+
 A user can see other participants of an event [MUST]
+
 A user can add other participants as their friends [GOOD]
+
 A user can explore activities of friends [EXTRA MILE]
+
 Non-Functional requirements
+
 Logging
+
 Unit tests
+
 UI Interfaces:
+
 Home: List of events - Filters (City)
+
 On click of an event: Event page
+
 Register for the event - Send an email - GOOD
+
 Event Brite plugin to display public events
+
 Profile: Add interests 
+
 Explore: User with same interests ka list
+
 	On click of user in interest list, show all interests of the user
+
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
