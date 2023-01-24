@@ -1,0 +1,3 @@
+[submodule "Rupeek-networking-platfrom"]
+	path = Rupeek-networking-platfrom
+	url = https://github.com/ArchanJS/Rupeek-social-networking-platfrom.git
